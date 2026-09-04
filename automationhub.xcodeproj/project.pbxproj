@@ -6,8 +6,13 @@
 	objectVersion = 77;
 	objects = {
 
+/* Begin PBXBuildFile section */
+		A7511223304AD5A500C7B179 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = A7511222304AD59F00C7B179 /* README.md */; };
+/* End PBXBuildFile section */
+
 /* Begin PBXFileReference section */
 		A7511200304ACCA000C7B179 /* automationhub.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = automationhub.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		A7511222304AD59F00C7B179 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -32,6 +37,7 @@
 		A75111F7304ACCA000C7B179 = {
 			isa = PBXGroup;
 			children = (
+				A7511222304AD59F00C7B179 /* README.md */,
 				A7511202304ACCA000C7B179 /* automationhub */,
 				A7511201304ACCA000C7B179 /* Products */,
 			);
@@ -109,6 +115,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A7511223304AD5A500C7B179 /* README.md in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
